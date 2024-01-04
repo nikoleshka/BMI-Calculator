@@ -11,7 +11,7 @@ if(hight && weight){
     }else if(BMI > 29.9 ){
         alert('your in danger area')
     }else{
-        alert('please enter your age properly')
+        alert('please enter your weight and hight properly')
     }
 }
 alert('You have not entered anything. please reload the page and try again')
